@@ -1,0 +1,37 @@
+.wrapper {
+    max-height: 300px;
+    margin: 10px;
+    /*background-color: #014b4d;*/
+    background-color:
+            #ffdab9;
+    /*color: #ffff;*/
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 10px;
+}
+.searchInputWrapper {
+
+}
+button {
+    width: 120px;
+    height: 40px;
+    border: 2px solid #FFFFFF;
+    border-radius: 5px;
+    background-color: transparent;
+
+    font-weight: 500;
+    font-size: 16px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.filters {
+display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 10px;
+}

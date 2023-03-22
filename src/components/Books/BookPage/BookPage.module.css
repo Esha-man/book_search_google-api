@@ -1,0 +1,25 @@
+.pageWrapper {
+    border: 1px solid black;
+    margin: 10px;
+    background-color: #dfe7f0;
+    height: 90vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 5px;
+}
+
+.imageWrapper{
+    border: 1px solid black;
+}
+
+.content{
+
+}
+
+.description {
+    width: 500px;
+    height: 300px;
+    border: 1px solid black;
+    margin: 10px;
+}

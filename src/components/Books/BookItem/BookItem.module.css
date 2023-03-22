@@ -1,0 +1,11 @@
+.itemWrapper {
+    border: 1px solid black;
+    margin: 10px;
+    background-color: #dfe7f0;
+    height: 300px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 5px;
+}
